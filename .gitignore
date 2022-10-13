@@ -1,3 +1,4 @@
 # ignores csv files
-.csv
+*.csv
 
+data/
